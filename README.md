@@ -1,4 +1,4 @@
-# Map Demo
+# Map Demo for Chris
 
 This is a frontend assessment created by Tamara Eaton as part of the hiring process for Chris. Data is pulled from a provided API and displayed to the user with the following requirements:
 
