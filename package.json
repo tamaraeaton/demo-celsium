@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<tamaraeaton>.github.io/<demo-celsium>/",
+  "homepage": "https://tamaraeaton.github.io/demo-celsium/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
