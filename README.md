@@ -1,6 +1,6 @@
-# Map Demo for Chris
+# Proof of Concept 
 
-This is a frontend assessment created by Tamara Eaton as part of the hiring process for Chris. Data is pulled from a provided API and displayed to the user with the following requirements:
+This is a frontend assessment created by Tamara Eaton. Data is pulled from Cesium API and displayed to the user with the following requirements:
 
 - [x] render map
 - [x] add Entity
@@ -15,6 +15,10 @@ This is a frontend assessment created by Tamara Eaton as part of the hiring proc
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+The recent updates were added using Google AI. updated with AI in the summer of 2026. 
+
+
+AR - confirm
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
